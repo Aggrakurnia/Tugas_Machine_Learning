@@ -1,5 +1,5 @@
 # Tugas Machine Learning
-Notebook tugas dapat dibuka dan dijalankan langsung melalui Google Colab di bawah ini:
+Dapat dibuka dan dijalankan langsung melalui Google Collab di bawah ini:
 
 **Chapter 2 (Supervised Learning):**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aggrakurnia/Tugas_Machine_Learning/blob/main/ML_Chapter_2_.ipynb)
